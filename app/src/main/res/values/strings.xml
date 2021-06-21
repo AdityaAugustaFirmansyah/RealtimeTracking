@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealtimeTracking</string>
+    <string name="mapbox_access_toke">MAPBOX_PUBLIC_ACCESS_TOKEN</string>
+</resources>
